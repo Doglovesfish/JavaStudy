@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java-chap5-extend" />
+        <module name="java-chap5-arrayList" />
+        <module name="java-Thread" />
+        <module name="java-chap9-Collection" />
+        <module name="com.yide.controlBasic" />
+        <module name="java-algorithm" />
+        <module name="java-reflection" />
+        <module name="java-chap6-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+</project>

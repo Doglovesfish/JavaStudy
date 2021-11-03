@@ -1,0 +1,4 @@
+
+[
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(ë¡øßþÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(ÏËÓž8à¬Á½‘/

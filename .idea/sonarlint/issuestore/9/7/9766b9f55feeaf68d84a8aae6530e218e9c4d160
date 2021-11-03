@@ -1,0 +1,8 @@
+
+l
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(íîÁ¿ùÿÿÿÿ8ÙÊÂ“/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±••›
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(•ƒ§œüÿÿÿÿ8Çº¦—/
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(˜Çİ¹ùÿÿÿÿ8Ï±Î“/

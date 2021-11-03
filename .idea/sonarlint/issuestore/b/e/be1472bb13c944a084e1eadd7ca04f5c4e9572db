@@ -1,0 +1,16 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§è»8¯©Ì/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8¶®™Ì/
+I
+java:S3011 ",This accessibility update should be removed.(©ç‹Á8³½ÂÌ/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8æ›½Ì/
+Q
+java:S3740
+"/Provide the parametrized type for this generic.(îßêıÿÿÿÿ8ù ğË/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôÆõÍúÿÿÿÿ8æ•¥Ì/
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8àáôË/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ£±Ôúÿÿÿÿ8€ãœÌ/
+H
+java:S3011",This accessibility bypass should be removed.(¼°§|8º…œÌ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(äîÓÕşÿÿÿÿ8 ÄõË/

@@ -1,0 +1,8 @@
+
+9
+java:S1116!"Remove this empty statement.(¾×ıÓ8ñ³Òõ/
+\
+java:S1128":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ8éé÷ô/
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8‘ìÈõ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±••›

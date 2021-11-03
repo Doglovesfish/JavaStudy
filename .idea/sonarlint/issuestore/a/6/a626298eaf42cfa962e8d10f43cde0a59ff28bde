@@ -1,0 +1,14 @@
+
+R
+java:S1854	"5Remove this useless assignment to local variable "a".(¹Æ¼Û8Çãº/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ªÑ8ä´³º/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ü¤Ùüÿÿÿÿ8÷èÁº/
+Y
+java:S1854"7Remove this useless assignment to local variable "tmp".(äÍƒŠûÿÿÿÿ8çüãº/
+C
+java:S1481	"&Remove this unused "a" local variable.(¹Æ¼Û8Çãº/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8õÁáº/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤‰‰ûÿÿÿÿ8İÎåº/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8³¦çº/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8Çãº/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ü¤Ùüÿÿÿÿ8·Şº/

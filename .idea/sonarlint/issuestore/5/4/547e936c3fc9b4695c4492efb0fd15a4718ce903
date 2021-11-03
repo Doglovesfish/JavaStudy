@@ -1,0 +1,5 @@
+
+s
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(àˆ¼Ü8â¯Ÿï/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ËŸÜşÿÿÿÿ8ª‹àî/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(éšè8ñÆáî/
