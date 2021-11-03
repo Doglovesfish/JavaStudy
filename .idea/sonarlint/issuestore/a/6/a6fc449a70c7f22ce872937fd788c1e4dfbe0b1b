@@ -1,0 +1,7 @@
+
+T	java:S1068"9Replace this use of System.out or System.err by a logger.(ÚÍ¨8õÎß†ç/
+_
+java:S2259&"BA "NullPointerException" could be thrown; "node" is nullable here.(Ÿ¨Åç8õÎß†ç/
+]	java:S1253"<This block of commented-out lines of code should be removed.(πÿç∏ˇˇˇˇˇ8õÎß†ç/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(˙Õ‰œ˝ˇˇˇˇ8õÎß†ç/
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(©ó≥´8õÎß†ç/

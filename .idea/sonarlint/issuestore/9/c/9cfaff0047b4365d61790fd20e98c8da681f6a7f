@@ -1,0 +1,9 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÖèöÅùÿÿÿÿ8¢‘Èñ/
+W	java:S125"<This block of commented-out lines of code should be removed.(¥Ó÷
+8ı»…ğ/
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(ºğ“´8˜Ç³ğ/
+X
+java:S1128";Remove this unused import 'sun.reflect.generics.tree.Tree'.(ºğ“´8™Ç³ğ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Õçí©8îÙºğ/

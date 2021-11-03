@@ -1,0 +1,11 @@
+
+m	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¼ÿ»øÿÿÿÿ8Ú èÃ/
+A
+java:S16591"Declare "j" on a separate line.(á”æåşÿÿÿÿ8Û‘ÍÄ/
+s
+java:S34574"Q%n should be used in place of \n to produce the platform-specific line separator.(”­æÁÿÿÿÿÿ8„Œ“Å/
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(”­æÁÿÿÿÿÿ8óÁßÄ/
+^
+java:S3457H"AFormat specifiers should be used instead of string concatenation.(„›îş8»¤Şä/
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(„›îş8»¤Şä/
+]	java:S125J"<This block of commented-out lines of code should be removed.(ÇÛçáşÿÿÿÿ8²»‰Å/

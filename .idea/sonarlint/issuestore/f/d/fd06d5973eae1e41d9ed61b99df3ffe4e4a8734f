@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„ûê”
+B
+java:S1481	",Remove this unused "manager" local variable.(¾Ì
+G
+java:S2201",The return value of "toString" must be used.(ø¦šúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ä¦Öıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å¾¥
+Q
+java:S1854	";Remove this useless assignment to local variable "manager".(¾Ì

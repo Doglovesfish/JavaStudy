@@ -1,0 +1,9 @@
+
+Q
+java:S3740
+"/Provide the parametrized type for this generic.(îßêıÿÿÿÿ8î™Ï/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šø•‹øÿÿÿÿ8Ó¿Ï/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ä©‚šÿÿÿÿÿ8¶ç²Ï/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ä„¸¦8Èä°Ï/
+\
+java:S1128":Remove this unused import 'java.lang.reflect.Constructor'.(¿ã–şúÿÿÿÿ8¡šÏ/

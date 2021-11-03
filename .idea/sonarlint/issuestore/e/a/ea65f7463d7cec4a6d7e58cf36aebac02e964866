@@ -1,0 +1,7 @@
+
+i
+java:S2095
+"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ÁÿÒâ8æ½º™/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ìø¦8ö”ç™/
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ö”ç™/

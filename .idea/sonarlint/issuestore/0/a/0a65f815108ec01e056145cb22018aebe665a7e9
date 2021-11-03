@@ -1,0 +1,8 @@
+
+t
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "n".(ªîÄçùÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "y".(ƒ§°…ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ
+A
+java:S1481"&Remove this unused "y" local variable.(ƒ§°…ùÿÿÿÿ

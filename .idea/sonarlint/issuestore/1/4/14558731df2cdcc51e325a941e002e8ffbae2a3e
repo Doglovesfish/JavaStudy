@@ -1,0 +1,5 @@
+
+I
+java:S1068",Remove this unused "fromPort" private field.(Û»¯8Ş×ª›/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­áÚ¡ûÿÿÿÿ8àşª›/
+k	java:S116"ORename this field "TOIP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›²‘·8Ã„£›/
