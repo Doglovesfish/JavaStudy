@@ -17,6 +17,9 @@
         <module name="java-chap6-interface" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="codeTest" target="11" />
+      <module name="multiThread" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

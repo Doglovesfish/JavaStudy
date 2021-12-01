@@ -1,8 +1,14 @@
 import java.util.List;
+import java.util.Random;
 import java.util.TreeMap;
 
 public class ReverseListNode {
     public static void main(String[] args) {
+        int i = 10;
+        while(i-- > 0){
+            System.out.println(new Random().nextInt());
+        }
+
         ListNode root = new ListNode(1);
         ListNode head = root;
         ListNode node2 = new ListNode(2);
@@ -12,9 +18,11 @@ public class ReverseListNode {
         root.next = node3;
 
         printNode(head);
-//        deleteNode(node2);
-        node2 = node2.next;
+        deleteNode(node2);
+//        node2 = node2.next;
         System.out.println(node2);
+
+
     }
 
     private static void deleteNode(ListNode node){
